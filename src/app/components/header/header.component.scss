@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&family=Paytone+One&display=swap');
+
+.container{
+    display: flex;
+    justify-content: end;
+   
+}
+.btn-Hello{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    background-color: white;
+    border-radius: 40px;
+    font-size: 20px;
+    padding: 0.9rem;
+    font-family: 'Concert One', cursive;
+    border-color: #6e07f3;
+    color: #6e07f3;
+    text-align: center;
+    transition: background-color 0.2s, color 0.2s;
+
+    &:hover{
+       cursor: pointer;
+        background-color: #6e07f3;
+        color:aliceblue ;
+        
+       
+    }
+    &:active{
+        opacity: 40%;
+    }
+    
+}
+.btn-image{
+    margin-left: 200px;
+    padding: 1.2rem;
+}

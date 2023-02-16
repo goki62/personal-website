@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Coiny&family=Concert+One&family=Paytone+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Farro&display=swap');
+.main-text{
+    margin-top: 4rem;
+    text-align: center;
+    font-family: 'Farro', sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.titletexth1{
+    font-family: 'Farro', sans-serif;
+    font-weight: 550;
+    font-size: 40px;
+}
+.titletexth2{
+    font-family: 'Farro', sans-serif;
+    font-weight: 550;
+    margin-top: 26px;
+    font-size: 24px;
+}
+
+.avatar-img{
+    margin-top: 40px;
+    max-width: 100%;
+   
+}
+.work-img{
+    width: 700px;
+    margin-top: 60px;
+    border-bottom: none;
+    margin-bottom: -0.20rem;
+    border-radius: 8px;
+    
+}
+
+@media screen and (max-width: 1000px) {
+
+    .main-text{
+    margin-top: 4rem;
+    text-align: center;
+    font-family: 'Farro', sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.titletexth1{
+    font-family: 'Farro', sans-serif;
+    font-weight: 600;
+    font-size: 34px;
+}
+.titletexth2{
+    font-family: 'Farro', sans-serif;
+    font-weight: 550;
+    margin-top: 26px;
+    font-size: 10px;
+}
+
+.avatar-img{
+    margin-top: 40px;
+    max-width: auto;
+   
+}
+.work-img{
+    max-width: 100%;
+    margin-top: 60px;
+    border-bottom: none;
+    margin-bottom: -0.20rem;
+    border-radius: 8px;
+    
+}
+}
+.main-text{
+    margin-top: 4rem;
+    text-align: center;
+    font-family: 'Farro', sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.titletexth1{
+    font-family: 'Farro', sans-serif;
+    font-weight: 550;
+    font-size: 40px;
+}
+.titletexth2{
+    font-family: 'Farro', sans-serif;
+    font-weight: 550;
+    margin-top: 26px;
+    font-size: 24px;
+}
+
+.avatar-img{
+    margin-top: 40px;
+    width: 270px;
+   
+}
+.work-img{
+    width: 700px;
+    margin-top: 60px;
+    border-bottom: none;
+    margin-bottom: -0.20rem;
+    border-radius: 8px;
+    
+}
+@media screen and (max-width: 600px) {
+    
+    .titletexth1{
+        font-family: 'Farro', sans-serif;
+        font-weight: 600;
+        font-size: 32px;
+    }
+    .titletexth2{
+        font-family: 'Farro', sans-serif;
+        font-weight: 600;
+        margin-top: 26px;
+        font-size: 20px;
+    }
+}
